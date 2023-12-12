@@ -1,0 +1,2 @@
+# DiskretnaMatematika
+Laboratorijske vježbe 
